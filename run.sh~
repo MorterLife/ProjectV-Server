@@ -1,0 +1,1 @@
+java -Xmx1024m bin:lib/*: org.rs2server.Server
