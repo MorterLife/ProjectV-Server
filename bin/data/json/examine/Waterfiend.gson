@@ -1,0 +1,14 @@
+  {
+    "npcIds": [
+      2916
+    ],
+    "rarities": [
+      {
+        "itemId": 1311,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "rarity": 0.25
+          }
+    ]
+  }
+
