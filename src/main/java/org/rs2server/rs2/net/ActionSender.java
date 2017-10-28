@@ -786,7 +786,7 @@ outer:
         sendSideTab(18, 261);//settings
         sendSideTab(19, 216);//emotes
         sendSideTab(20, 239);//music
-        sendSideTab(14, 589);//clanchat
+        sendSideTab(14, 7);//clanchat
         sendSideTab(7, 593);//att style
         return this;
     }

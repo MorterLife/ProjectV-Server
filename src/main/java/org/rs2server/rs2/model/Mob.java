@@ -1730,7 +1730,8 @@ public abstract class Mob extends Entity {
 				|| (absX >= 1791 && absX <= 1665 && absY >= 3505 && absY <= 3471)
 				|| (absX >= 2812 && absX <= 2793 && absY >= 9189 && absY <= 9209)
 				|| (absX >= 2783 && absX <= 2808 && absY >= 2802 && absY <= 2770)
-				|| (absX >= 2654 && absX <= 2690 && absY >= 3702 && absY <= 3740)) {
+				|| (absX >= 2654 && absX <= 2690 && absY >= 3702 && absY <= 3740)
+				|| (absX >= 1588 && absX <= 1653 && absY >= 3689 && absY <= 3668)) {
 			return true;
 		}
 		return false;
