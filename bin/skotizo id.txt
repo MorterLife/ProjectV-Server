@@ -1,5 +1,0 @@
-npc id - 7286
-
-
-Skotizo teleport altar - 1665, 10046, 0
-Skotizo dungeon - 1693, 9886, 0
