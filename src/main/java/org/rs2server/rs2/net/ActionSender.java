@@ -81,7 +81,7 @@ public class ActionSender {
 
     public static final String DEVS[] = {""};
     public static final String COMS[] = {""};
-    public static final String ADMINS[] = {"life", "me", "gasur"};
+    public static final String ADMINS[] = {"yourname", "me", "gasur"};
     public static final String MODERATORS[] = {""};
 	public static final String HELPERS[] = {""};
 	

@@ -13,7 +13,7 @@
 	<classpathentry kind="lib" path="extradeps/jdbj-0.1.9.jar"/>
 	<classpathentry kind="lib" path="extradeps/reflections-0.9.10.jar"/>
 	<classpathentry kind="lib" path="extradeps/netty-3.2.9.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Morte/Desktop/Vernox/Source/extradeps/MotiVote.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Morte/Desktop/Vernox/Source/extradeps/slf4j-log4j12-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/James/Desktop/ProjectV-Server/extradeps/MotiVote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/James/Desktop/ProjectV-Server/extradeps/slf4j-log4j12-1.7.24.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
